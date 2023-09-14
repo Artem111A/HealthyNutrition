@@ -188,10 +188,12 @@ footer {
 	padding-top: 30px;
 	float: left;
 }
+
 footer .footer_column h3 {
 	color: #B3B3B3;
 	text-align: center;
 }
+
 footer .footer_column p {
 	color: #717070;
 	background-color: #FFFFFF;
@@ -199,9 +201,10 @@ footer .footer_column p {
 .cards {
 	width: 100%;
 	height: auto;
-	max-width: 400px;
-	max-height: 200px;
+	max-width: 300px;
+	max-height: 300px;
 }
+
 footer .footer_column p {
 	padding-left: 30px;
 	padding-right: 30px;

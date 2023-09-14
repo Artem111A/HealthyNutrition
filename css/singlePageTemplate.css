@@ -279,9 +279,9 @@ footer .footer_column p {
 	width: 100%;
 	height: auto;
 	max-width: 400px;
-	max-height: 200px;
+	max-height: 400px;
 }
-.nucleicButton {
+.allButton {
 	width: 200px;
 	margin-top: 40px;
 	margin-right: auto;
@@ -297,14 +297,15 @@ footer .footer_column p {
 	text-transform: uppercase;
 	font-weight: bold;
 	letter-spacing: 2px;
-	border: 3px solid #AF7131;
-	background-color: #FEDA00;
+	
+	border: 3px solid #DC8C39;
+	background-color: #Af7131;
 	color: #FFFFFF;
 	transition: all 0.3s linear;
 }
-.nucleicButton:hover {
-	background-color: #72D32D;
-	color: #FF0004;
+.allButton:hover {
+	background-color: #BB3e3e;
+	color: #FFF;
 	cursor: pointer;
 }
 footer .footer_column p {

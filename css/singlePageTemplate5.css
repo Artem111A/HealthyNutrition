@@ -200,7 +200,25 @@ footer .footer_column p {
 	width: 100%;
 	height: auto;
 	max-width: 400px;
-	max-height: 200px;
+	max-height: 500px;
+}
+.cards2 {
+	width: 100%;
+	height: auto;
+	max-width: 400px;
+	max-height: 800px;
+}
+.cards3 {
+	width: 100%;
+	height: auto;
+	max-width: 400px;
+	max-height: 500px;
+}
+.cards4 {
+	width: 100%;
+	height: auto;
+	max-width: 400px;
+	max-height: 400px;
 }
 footer .footer_column p {
 	padding-left: 30px;
