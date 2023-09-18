@@ -63,7 +63,8 @@ ul li:hover a {
 	color: #AF7131;
 }
 .hero_header {
-	color: #000000;
+	
+	color: #000;
 	text-align: center;
 	margin-top: 0px;
 	margin-right: 0px;
